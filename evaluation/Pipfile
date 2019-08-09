@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+spacy = "*"
+matplotlib = "*"
+sklearn = "*"
+bert-serving-client = "*"
+bert-serving-server = "*"
+tensorflow = "*"
+tensorflow-gpu = "*"
+ipympl = "*"
+scipy = "*"
+nltk = "*"
+argparse = "*"
+
+[requires]
+python_version = "3.5"
