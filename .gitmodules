@@ -1,0 +1,3 @@
+[submodule "evaluation/bert"]
+	path = evaluation/bert
+	url = git@github.com:google-research/bert.git
