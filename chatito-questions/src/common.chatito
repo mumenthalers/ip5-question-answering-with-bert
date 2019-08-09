@@ -1,0 +1,228 @@
+
+~[my]
+    my
+    our
+
+~[the_my]
+    ~[my]
+    the
+
+~[the_your]
+    the
+    your
+
+~[I]
+    I
+    we
+    my company
+    our company
+
+~[I have]
+    I have
+    ~[my] company has
+    we have
+
+~[offer]
+    offer
+    provide
+    supply
+    create
+
+~[build]
+    build
+    develop
+    create
+    implement
+    program
+    redevelop
+    improve
+
+~[creation of]
+    creation of
+    formulation of
+    making of
+    development of
+
+~[product]
+    product
+    solution
+    web app
+    application
+    project
+    app
+    software
+
+~[can you help me]
+    ~[can you]
+    ~[can you] ~[help] ~[me]
+    ~[please] ~[help] ~[me]
+    Help!
+
+~[can you]
+    can you
+    could you
+    are you able to
+    do you
+
+~[help]
+    support
+    help
+    assist
+    lend a hand
+
+~[help me]
+    Help!
+    ~[can you] ~[help] ~[me]?
+    ~[please] ~[help] ~[me]?
+
+~[me]
+    me
+    us
+    ~[my] company
+
+~[with]
+    with
+    for
+
+~[for]
+    for
+    of
+
+~[do i need to]
+    do ~[I] need to
+    is it necessary to
+    do ~[I] have to
+
+~[how can I]
+    how can ~[I]
+    how do ~[I]
+    is it possible to
+    what's the best way to
+    how to
+    what is the path to
+    can ~[I]
+    ~[I] want to know how to
+    ~[I] want to
+    ~[I] would like to
+
+~[is this possible]
+    how can ~[I] achieve this?
+    how to do this?
+    is this possible?
+    ~[where to start]
+
+~[where to start]
+    how can ~[I] start?
+    how do ~[I] get started?
+    how can we keep up?
+
+~[cool]
+    cool
+    nice
+    awesome
+    super crazy
+    excellent
+    genius
+
+~[please]
+    please
+    plz
+    pls
+
+~[asap]
+    asap
+    as soon as possible
+    as quickly as possible
+    as early as possible
+    right away
+    instantly
+    immediately
+    right now
+    at the earliest opportunity
+    right off
+    promptly
+    without delay
+    as a matter of urgency
+
+~[already]
+    already
+
+~[individual]
+    individual
+    custom
+    specific
+    special
+    different
+    separate
+
+~[OS]
+    iOS
+    mac
+    mac OS
+    iPad
+    iPhone
+    android
+    windows
+
+~[exactly]
+    exactly
+    totally
+    precisely
+    literally
+    completely
+
+~[desired]
+    desired
+    necessary
+    needed
+    essential
+    required
+
+~[but]
+    just
+    but
+    the problem is
+    the thing is
+
+~[I can't imagine]
+    ~[I] can't imagine
+    ~[I have] no idea
+    ~[I have] no clue
+    ~[I] don't know
+
+~[inhouse]
+    own
+    inhouse
+    internal
+    existing
+
+~[potential]
+    potential
+    possible
+
+~[processes]
+    processes
+    procedures
+    operations
+
+~[feedback]
+    feedback
+    critics
+    sentiments
+    opinions
+    reviews
+    feelings
+    point of view
+    thoughts
+
+~[get]
+    get
+    receive
+    collect
+    gather
+
+~[customers]
+    customers
+    users
+    people
+    digital natives

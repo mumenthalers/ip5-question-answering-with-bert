@@ -1,0 +1,67 @@
+import ./common.chatito
+
+%[digitalProducts]('training': '60', 'testing': '60')
+    ~[how can I] ~[sell] a ~[digital product]
+    ~[how can I] ~[implement] a ~[idea]
+    ~[I sell] ~[analog products] ~[how can I] ~[do stuff], ~[how to]
+    ~[I have] a ~[cool?] ~[idea], ~[how to]
+    ~[I have] a ~[idea] for a ~[digital product], ~[how to]
+    ~[how can I] ~[implement] our ~[idea] with current technology
+
+~[I sell]
+    ~[I] ~[sell]
+
+~[sell]
+    sell
+    have
+    build
+    produce
+    offer
+    provide
+    distribute
+
+~[analog products]
+    analogue products
+    real products
+    trees
+    watches
+    simple devices
+    analogue devices
+    wood
+
+~[digital product]
+    digital product
+    accompanying service
+    digital element
+    product 2.0
+
+~[how to]
+    how do we start
+    is it technically feasible
+    is it even possible
+    what costs do ~[I] have to expect
+    do comparable products already exist
+    what are the possibilities
+    how do we make the ~[digital product]
+
+~[do stuff]
+    be hip
+    be modern
+    be up to date
+    attract young ~[customers]
+    reach the ~[customers]
+    ~[implement] a ~[digital product] for it.
+    ~[implement] a ~[digital product] to sell even more?
+    complement them with ~[digital product].
+
+~[implement]
+    implement
+    develop
+    create
+    introduce
+
+~[idea]
+    product idea
+    idea
+    plan
+    concept

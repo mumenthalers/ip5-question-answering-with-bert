@@ -1,0 +1,100 @@
+import ./common.chatito
+
+%[cuttingCosts]('training': '100', 'testing': '100')
+    ~[why is] ~[expensiveStuff] ~[so expensive]
+    ~[why does] ~[expensiveStuff] ~[is expensive]
+    ~[my] ~[expensiveStuff] ~[is expensive] ~[what to change?]. ~[help me?]
+    ~[my] ~[expensiveStuff] ~[is expensive] ~[but?] ~[I can't imagine] ~[why]
+    ~[how can I] ~[reduce costs]
+    ~[how can I] ~[reduce costs] with ~[expensiveStuff]
+    ~[how expensive] ~[to do stuff]
+    ~[how can I] ~[start] ~[expensiveStuff], ~[how expensive]?
+    ~[how can I] ~[reduce] ~[costs] of a ~[product]
+    ~[now and then] ~[we pay money] for ~[expensiveStuff], ~[what to change?]
+
+~[now and then]
+    now and then
+    Every second year
+    every fucking year
+
+~[we pay money]
+    we pay money
+    we pay a huge sum
+    it ~[is expensive]
+
+~[what to change]
+    what can we change
+    what's to do
+    how can we ~[reduce costs]
+
+~[how expensive]
+    how expensive will it be
+    how much does it cost
+    how much money will it take
+    what costs can we expect
+    what are the costs
+
+~[to do stuff]
+    to use cloud services
+    to get to the cloud
+    to move into the cloud
+    to have aws
+
+~[why]
+    why
+    how this is possible
+
+~[why does]
+    why does
+    how is it possible that
+
+~[why is]
+    why is
+    why the fuck
+    tell me why
+
+~[expensiveStuff]
+    IT
+    ~[my] software
+    ~[my] software maintenance
+    ~[my?] development
+    inhouse development
+    internal stuff
+    Software Development
+    this stuff
+    that shit
+
+~[so expensive]
+    so expensive
+    costing so much money
+    taking all my cash
+    so pricey
+    overpriced
+    hardware
+
+~[is expensive]
+    is ~[so expensive]
+    costs a lot
+    costs so much
+
+~[reduce costs]
+    ~[reduce] costs
+    cut costs
+    cut down costs
+    save money
+
+~[reduce]
+    reduce
+    minimize
+    lower
+    decrease
+
+~[start]
+    set up
+    start
+    begin with
+
+~[costs]
+    costs
+    development time
+    maintenance

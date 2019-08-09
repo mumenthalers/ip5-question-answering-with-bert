@@ -1,0 +1,82 @@
+import ./common.chatito
+
+%[prototyping]('training': '80', 'testing': '80')
+    ~[I have] ~[a] ~[cool?] ~[idea] ~[but] ~[they don't get it] ~[what I mean?], ~[can you help me] ~[build] ~[a prototype]
+    ~[I have] ~[a] ~[cool?] ~[idea] ~[can you help me] ~[build] ~[a prototype]
+    ~[can you help me] ~[build] ~[a prototype]
+    ~[how can I] ~[test] ~[a] ~[cool?] ~[idea] with ~[potential?] ~[target group] ~[can you help us?]
+    ~[how can I] ~[test] ~[a] ~[cool?] ~[idea] ~[asap?]? ~[can you help us?]?
+    ~[how can I] ~[asap] ~[present] ~[a] ~[cool?] ~[idea] to the ~[target group]
+    ~[I can't imagine] ~[how] ~[a] ~[cool?] ~[idea] ~[will behave] ~[on a device?]
+    ~[I have] ~[already?] ~[a] ~[cool?] ~[idea] ~[but?] ~[I can't imagine] ~[how my app] ~[will behave] ~[on a device?]
+
+~[will behave]
+    will behave
+    will work
+    will be
+    will look like
+    will feels like
+    will actually be like
+
+~[how]
+    how
+    what
+
+~[how my app]
+    ~[how] ~[my] app
+    ~[how] the application
+    ~[how] the result
+
+~[on a device]
+    on a device
+    on a smartphone
+    on a laptop
+    on a tv
+    on phone
+    on notebook
+    in reality
+    later
+    actually
+
+~[a]
+    my
+    our
+    a
+
+~[idea]
+    idea
+    concept
+    plan
+    PoC
+    design
+
+~[test]
+    test
+    validate
+    prove
+    check
+    get feedback of
+
+~[they don't get it]
+    nobody understands
+    they don't get it
+    no one sees
+
+~[what I mean]
+    what I mean
+
+~[a prototype]
+    a prototype
+    a proof of concept
+    mock-up
+    example
+
+~[present]
+    present
+    give a taste of
+
+~[target group]
+    target group
+    board
+    customers
+    users

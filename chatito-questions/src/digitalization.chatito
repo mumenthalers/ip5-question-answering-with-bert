@@ -1,0 +1,120 @@
+import ./common.chatito
+
+%[digitalization]('training': '80', 'testing': '80')
+    what ~[benefits] does ~[digitalization] ~[bring] us
+    what are the ~[threats] of ~[digitalization]
+    ~[everyone talks about] ~[digitalization] ~[is this possible?]
+    ~[how can I] ~[digitalize] ~[my] ~[analog stuff]?
+    The ~[digital world] is ~[unknown territory] for ~[me], ~[where to start?]
+    ~[my] ~[suppliers] want to ~[digitalize] ~[analog stuff], ~[where to start]
+    ~[do i need to] ~[digitalize] ~[as a whole] or can ~[I] ~[convert] ~[particular parts] ~[step by step]?
+    Does ~[my business model] ~[also] ~[work] in the ~[digital world]?
+
+~[suppliers]
+    suppliers
+    partners
+
+~[everyone talks about]
+    everyone talks about
+    Everywhere I read about
+    the whole world talks about
+
+~[benefits]
+    benefits
+    opportunities
+    advantages
+
+~[threats]
+    threats
+    risks
+    dangers
+    disadvantages
+
+~[bring]
+    bring
+    offer
+    provide
+    give
+
+~[digital world]
+    digital ~[world]
+    digitalized ~[world]
+    modern ~[world]
+    ~[digitalization]
+
+
+~[world]
+    world
+    industry
+    society
+
+~[digitalization]
+    digitalization
+    digitization
+
+~[digitalize]
+    digitalize
+    digitize
+    modernize
+
+~[analog stuff]
+    paper correspondence
+    fax orders
+    tape backup
+    paper archive
+    paper journal
+    brewery
+    factory
+    supply chain
+    conventional interfaces
+
+~[unknown territory]
+    unknown territory
+    a black hole
+
+~[as a whole]
+    as a whole
+    all at once
+    all together
+    as one
+    closely
+    commonly
+    in sync
+
+~[convert]
+    convert
+    switch
+    change
+    transform
+    reorganize
+    implement
+    remodel
+
+~[particular parts]
+    particular parts
+    individual parts
+    single parts
+    isolated pieces
+
+~[step by step]
+    step by step
+    one thing after the other
+    bit by bit
+    piecemeal
+
+~[my business model]
+    ~[my] business model
+    ~[my] supply chain
+    ~[my] factory
+
+~[also]
+    also
+    still
+
+~[work]
+    work
+    survive
+    endure
+    exist
+    last
+    sustain

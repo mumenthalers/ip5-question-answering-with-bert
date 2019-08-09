@@ -1,0 +1,127 @@
+import ./common.chatito
+
+%[iot]('training': '100', 'testing': '100')
+    ~[how can I] ~[manage] ~[my?] ~[iot?] ~[device] ~[forWhatWhy?]
+    ~[how can I] ~[connect] ~[to the] ~[iot?] ~[device]~[forWhatWhy]
+    ~[how can I] ~[connect] ~[my?] ~[iot?] ~[device] ~[to the] ~[internet]
+    ~[how can I] ~[know] where ~[my?] ~[iot?] ~[device] ~[are located]
+    ~[how can I] ~[know] ~[the sensor data] ~[forWhatWhy?]
+    ~[how can I] ~[know] ~[the sensor data] ~[of] ~[my?] ~[iot?] ~[devices]  ~[forWhatWhy?]
+    ~[how can I] ~[facilitate] ~[maintenance] ~[for] ~[my] ~[iot?] ~[devices]
+    ~[my] ~[iot?] ~[product] ~[gather] ~[data] ~[how can I] ~[process] ~[it?]
+    ~[what] ~[capabilities] does ~[iot] ~[devices] ~[enable]
+    ~[I] [have] ~[iot?] ~[device] ~[how can I] ~[efficiently?] ~[process] ~[the sensor data]
+
+~[what]
+    what
+    what kind of
+
+~[capabilities]
+    new business models
+    possibilities
+    capabilities
+    potential
+
+~[enable]
+    enable
+    make possible
+    permit
+    empower
+
+~[know]
+    know
+    see
+    get the information
+
+~[gather]
+    ~[get]
+    aggregate
+    save
+    store
+
+~[process]
+    store
+    process
+    link
+    analyze
+    evaluate
+    inspect
+    interpret
+    study
+
+~[manage]
+    manage
+    administrate
+    handle
+    run
+    maintain
+    control
+    monitor
+
+~[maintenance]
+    maintenance
+    support
+    handling
+    monitoring
+    controlling
+    administration
+
+~[are located]
+    are located
+    is based
+
+~[the sensor data]
+    the resulting information
+    the sensor data
+    the data
+    the location
+    the temperature
+    the humidity
+    the moisture
+
+~[forWhatWhy]
+    over long distances
+    ~[efficiently]
+    to facilitate ~[it?]
+
+~[efficiently]
+    efficiently
+    optimally
+
+~[connect]
+    connect
+    put
+
+~[iot]
+    IOT
+    smart
+
+~[device]
+    device
+    product
+    sensors
+    hardware
+
+~[to the]
+    on the
+    in the
+    into the
+    to the
+
+~[internet]
+    wifi
+    network
+    internet
+    cloud
+
+~[it]
+    it
+    them
+    these
+    that
+    this
+
+~[facilitate]
+    facilitate
+    ease
+    make easier

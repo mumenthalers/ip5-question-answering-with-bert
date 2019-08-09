@@ -1,0 +1,104 @@
+import ./common.chatito
+
+%[processDesign]('training': '90', 'testing': '90')
+    ~[stuff] ~[sucks] ~[for us?] ~[how to optimize that]
+    ~[we want to] - ~[is this possible]
+    ~[I can't imagine] if ~[I need] ~[aNecessity] - ~[do you recommend]?
+    ~[the_my] ~[customers] as a ~[source of ideas] - ~[is this possible]?
+    ~[the_my] ~[customers] as a ~[source of ideas] - ~[do you recommend]?
+    ~[I can't imagine] what ~[the_my] ~[customers] ~[think of] ~[the_my] ~[product] - ~[can you help me]?
+    ~[I can't imagine] if ~[the_my] ~[customers] ~[likeOrHate] ~[the_my] ~[product], ~[how can I] ~[get] ~[customers?] ~[feedback]?
+    ~[how can I] ~[integrate] ~[potential] ~[customers] into ~[the_my] ~[processes]
+    which ~[processes] ~[are possible to] ~[outsource] to ~[outsourceOption]
+
+~[stuff]
+    Employee entries
+    Employee leavings
+    Time recording
+    The sending of invoices
+    Internal communication
+    Customer communication
+
+~[aNecessity]
+    online channels
+    digital customer experience
+    ~[customers] ~[feedback]
+
+~[sucks]
+    sucks
+    is tedious
+    is cumbersome
+    is incomplete
+    is opaque
+    is time-consuming,
+    is limited
+    is not always comprehensible
+    always end in chaos
+
+~[for us]
+    for us
+    for the IT
+    for the company
+    for all employees
+
+~[how to optimize that]
+    how to optimize that
+    how can ~[I] optimize this process
+    are there optimization possibilities
+    how can ~[I] improve it?
+    how can ~[I] organize ourselves better?
+    with which tools can ~[I] do better?
+
+~[we want to]
+    ~[how can I] use less paper
+    ~[how can I] make less phone calls
+    ~[how can I] increase our efficiency
+    ~[how can I] build up customer experience?
+    ~[how can I] improve customer experience?
+
+~[I need]
+    ~[I] need
+    it is necessary to have
+
+~[do you recommend]
+    do you recommend
+    do you think this is good
+
+~[source of ideas]
+    source of ideas
+    inspiration
+    encouragement
+    influence
+
+~[integrate]
+    integrate
+    consolidate
+    consider
+    take into consideration
+    bear in mind
+
+~[think of]
+    think about
+    think of
+    have in mind about
+
+~[likeOrHate]
+    love
+    like
+    hate
+
+~[outsource]
+    outsource
+    move
+
+~[are possible to]
+    are possible to
+    can we
+    could we
+    is recommended to
+    should we
+
+~[outsourceOption]
+    third parties
+    the cloud
+    web services

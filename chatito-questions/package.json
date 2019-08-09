@@ -1,0 +1,14 @@
+{
+  "name": "chatito-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "chatito ./src --outputPath=./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatito": "^2.2.1"
+  }
+}

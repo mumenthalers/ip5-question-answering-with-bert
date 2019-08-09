@@ -1,0 +1,89 @@
+import ./common.chatito
+
+%[softwareDevelopment]('training': '120', 'testing': '120')
+    ~[can you help me] ~[build] ~[my] ~[individual?] ~[product] ~[asap?]
+    ~[are there alternatives to] ~[OS] ~[product] ~[today?]
+    ~[do i need to] ~[build] a ~[individual] ~[product] ~[for each platform]
+    ~[can you] ~[build] ~[my?] ~[product] ~[existing?] ~[sustainable?]
+    ~[can you] ~[build] ~[sustainable] ~[product]s
+    is ~[your] ~[product] ~[sustainable]
+    ~[work] ~[your] ~[product] ~[for a long time]
+    does ~[your] ~[product] ~[work] ~[sustainable]
+    ~[can you] ~[make] ~[mistakes]
+    ~[my] ~[existing] ~[product] ~[needs an update].
+    ~[my] ~[existing] ~[product] ~[needs an update]. ~[can you] do this?
+    ~[I have] a ~[existing] ~[product]. ~[how can I] ~[replace] it?
+
+~[are there alternatives to]
+    are there alternatives to
+    is there something else than
+    ~[do i need to] to ~[build] a
+    do ~[I] really need a
+
+~[today]
+    these days
+    today
+    by now
+    in the meantime
+
+~[for each platform]
+    for each platform
+    for ~[OS]
+
+~[for a long time]
+    for a long time
+    in the long run
+    in the next few years
+
+~[sustainable]
+    sustainable
+    optimal
+    without ~[mistakes]
+    error-less
+    bug-free
+
+~[mistakes]
+    mistakes
+    error
+    fails
+    bugs
+
+~[work]
+    work
+    run
+    operate
+
+~[your]
+    the
+    your
+
+~[make]
+    make
+    create
+    do
+    produce
+    generate
+
+~[existing]
+    own
+    existing
+    already running
+    outdated
+    current
+
+~[needs an update]
+    urgently needs an update
+    needs an update ~[asap?]
+    requires to be rebuilt
+    has to be renewed
+    needs to be replaced
+
+~[replace]
+    replace
+    renew
+    update
+    upgrade
+
+~[and]
+    and
+    . ~[but]

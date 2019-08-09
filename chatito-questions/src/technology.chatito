@@ -1,0 +1,51 @@
+import ./common.chatito
+
+%[technology]('training': '60', 'testing': '60')
+    what ~[technology] do you ~[use]?
+    ~[what is] ~[actual_technology]
+    are you a ~[actual_technology] ~[professional]?
+    ~[do you use] ~[actual_technology]
+    ~[I] ~[use] ~[actual_technology] ~[can you] ~[help] ~[me]
+    ~[can you] ~[help] ~[me] ~[with] ~[actual_technology]
+
+~[what is]
+    Do you know
+    What is
+    What for is
+
+~[do you use]
+    do you use
+    are you working with
+
+~[we use]
+    use
+    have problems with
+
+~[actual_technology]
+    SASS
+    CSS
+    HTML
+    Angular
+    JavaScript
+    Typescript
+    Node
+    Node.js
+    DynamoDB
+    DynamoEasy
+
+
+~[professional]
+    professional
+    pro
+
+~[technology]
+    technology
+    tools
+    environments
+    server
+
+~[use]
+    use
+    work with
+    implement stuff
+    know

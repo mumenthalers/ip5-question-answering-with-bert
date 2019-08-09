@@ -1,0 +1,153 @@
+import ./common.chatito
+
+%[serviceIntegration]('training': '110', 'testing': '110')
+    ~[how can I] ~[link] ~[multiple] ~[online service]
+    ~[how can I] ~[link] ~[multiple] ~[online service] to ~[provide] the ~[desired?] ~[overall functionality]
+    ~[how can I] ~[link] ~[my IT] to ~[multiple?] ~[online service]
+    ~[can you help me] ~[I] ~[link] too many ~[different?] ~[services]
+    ~[how can I] ~[offer] ~[my?] ~[inhouse?] ~[services] ~[to others]
+    ~[how can I] ~[replace] ~[my?] ~[current] ~[services]
+    ~[we've found] a ~[online service] ~[that does what we need?] - ~[how can I] ~[link] it?
+    ~[how can I] ~[offer] ~[my partners] ~[an interface] to ~[my IT]? ~[is this possible?]
+    ~[how can I] ~[automate] ~[certain] ~[processes]? ~[is this possible?]
+    ~[how can I] ~[be informed] ~[automatically?] ~[when] ~[one of] ~[my] ~[product] ~[failed]?
+    ~[how can I] ~[consolidate] ~[online service] ~[so they work] ~[in our environment]
+
+~[consolidate]
+    consolidate
+    build up
+    use
+    choose
+
+~[so they work]
+    so they work
+    to have them working
+
+
+~[in our environment]
+    in our environment
+    with our existing infrastructure
+    with our other ~[product]
+
+
+~[automatically]
+    automatically
+    instantly
+    ~[asap]
+
+~[be informed]
+    be informed
+    get the information
+    get a notification
+
+~[one of]
+    one of
+    a specific
+
+~[failed]
+    failed
+    has produced an error
+    broke down
+    errored
+    fucked up
+    shut down
+
+~[when]
+    when
+    after
+    if
+
+~[automate]
+    automate
+
+~[certain]
+    certain
+    some
+    a couple
+    several
+
+~[link]
+    link
+    connect
+    use
+    integrate
+    consume
+
+~[replace]
+    replace
+    take over
+    migrate
+
+~[multiple]
+    ~[different]
+    multiple
+    many
+
+~[different]
+    different
+    distinct
+
+~[online service]
+    online ~[service]
+    cloud ~[service]
+    ~[service]
+
+~[services]
+    services
+    api
+
+~[an interface]
+    an interface
+    an api
+    a service
+
+~[my IT]
+    ~[my] ~[inhouse] IT
+    ~[my] ~[inhouse] systems
+    ~[my] ~[inhouse] ~[services]
+
+~[current]
+    current
+    existing
+
+~[to others]
+    to others
+    publicly
+    to the crowd
+    online
+
+~[that does what we need]
+    that ~[fulfills] ~[exactly?] ~[what I need]
+
+~[my partners]
+    ~[my] partners
+    ~[my] customers
+
+
+~[what I need]
+    what ~[I] need
+    what's necessary
+
+~[fulfills]
+    does
+    fulfills
+    achieves
+    implements
+
+~[provide]
+    provide
+    achieve
+    get
+    implement
+    serve
+
+~[overall functionality]
+    ~[overall?] functionality
+    ~[overall?] requirements
+    ~[overall?] necessity
+    ~[overall?] specification
+
+~[overall]
+    overall
+    complete
+    total

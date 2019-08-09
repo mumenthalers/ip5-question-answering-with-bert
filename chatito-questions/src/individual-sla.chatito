@@ -1,0 +1,45 @@
+import ./common.chatito
+
+%[individualSla]('training': '70', 'testing': '70')
+    ~[does] ~[the] ~[product] ~[come] ~[individual] ~[sla]
+    ~[can you] ~[offer] ~[individual] ~[sla]
+    ~[can you] ~[offer] ~[individual] ~[sla] ~[for] ~[the_your] ~[product]
+    ~[can you] ~[help] ~[me] ~[with] ~[the_my] ~[creation of?] ~[sla]
+    ~[can you] ~[maintain] ~[my-the?] ~[individual?] ~[product]
+    ~[what about] the ~[maintance] ~[for] ~[the_my?] ~[individual?] ~[product]
+    ~[what happens then] ~[potential] ~[development]
+
+~[what happens then]
+    what happens after
+    what's next to
+    what's after
+
+~[development]
+    development
+    project
+
+~[does]
+    does
+    will
+    is
+
+~[what about]
+    what about
+    what's with
+
+
+~[my-the]
+    ~[my]
+    the
+
+~[come]
+    come with
+    be shipped with
+    be delivered with
+
+~[sla]
+    SLA
+    SLAs
+    Service Level Agreement
+
+
