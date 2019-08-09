@@ -1,0 +1,29 @@
+version: '2.1'
+services:
+  bert-server:
+    image: bierik/bert-as-a-service
+    ports:
+      - "5555:5555"
+      - "5556:5556"
+      - "9000:9000"
+    healthcheck:
+        test: curl --silent localhost:9000/status/server 2>&1 | grep '"status":200'
+        interval: 30s
+        timeout: 10s
+        retries: 5
+  web:
+    depends_on:
+      bert-server:
+        condition: service_healthy
+    links:
+      - bert-server
+    command: bash -c "flask init-db && flask run -h 0.0.0.0 -p 8000"
+    image: question-answer-bot
+    ports:
+      - "8000:8000"
+    environment:
+      - FLASK_APP=chatbot
+      - FLASK_ENV=production
+      - DOCKER=true
+    volumes:
+      -  ./instance:/app/instance
